@@ -1306,12 +1306,12 @@ a:focus {
 .contact {
     position: relative;
     width: 100%;
-    margin: 45px 0;
+    margin: 5px 0;
     background: #EF233C;
 }
 
 .contact .container-fluid {
-    background: url(../img/believe.jpg) left center no-repeat;
+    background: url(../img/devu.png) left center no-repeat;
     background-size: contain;
 }
 
@@ -1465,7 +1465,7 @@ a:focus {
 /*******************************/
 .footer {
     position: relative;
-    margin-top: 45px;
+    margin-top: 0px;
     background: #EF233C;
 }
 
