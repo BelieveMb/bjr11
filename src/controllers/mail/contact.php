@@ -11,7 +11,7 @@ $message = strip_tags(htmlspecialchars($_POST['message']));
 
 $to = "mbolokobelieve@gmail.com"; // Change this email to your //
 $subject = "$m_subject:  $name";
-$body = "Vous avez recu un mail depuis  le site de Bjr 11.i .\n\n"."Voici les details:\n\nNom: $name\n\n\nEmail: $email\n\nSujet: $m_subject\n\nMessage: $message";
+$body = "Vous avez recu un mail depuis  le site de Bjr 11.i test.\n\n"."Voici les details:\n\nNom: $name\n\n\nEmail: $email\n\nSujet: $m_subject\n\nMessage: $message";
 $header = "From: $email";
 $header .= "Reply-To: $email";	
 
